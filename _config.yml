@@ -22,7 +22,7 @@ repository               : "jackshen-1215/jackshen-1215.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Jack_Shen_Photo.jpg"
+  avatar           : "Jack_Shen_Photo.jpg"
   name             : "Jucheng (Jack) Shen"
   pronouns         : # example: "she/her"  
   bio              : "CS, Math, and Econ at Rice University"
