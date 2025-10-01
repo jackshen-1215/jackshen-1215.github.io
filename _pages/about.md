@@ -15,9 +15,11 @@ I'm broadly interested in **efficient machine learning algorithms and systems**.
 
 Research
 ======
-I'm fortunate to work with researchers at **The University of Texas at Austin** on diffusion language models, where I've developed algorithms that achieve up to 50% speedup in decoding. I also collaborate with **Prof. Yuke Wang's group at Rice University** on SuperGen, an efficient ultra-high-resolution video generation system.
+I'm fortunate to work with [Yeonju Ro](https://sites.google.com/view/hey-yeonju) and was advised by [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at **The University of Texas at Austin** on diffusion language models, where I've developed algorithms that achieve up to 50% speedup in decoding while maintaining accuracy comparable to state-of-the-art methods. Building on this work, I'm collaborating with three Intel researchers on training-free approaches to further accelerate inference for diffusion large language models.
 
-My work has been accepted to the **NeurIPS 2025 Efficient Reasoning Workshop**, and I will be presenting my work there this December at San Diego!
+I also collaborate with [Fanjiang Ye](https://home.fanjiang.net/) and was advised by [Prof. Yuke Wang](https://www.wang-yuke.com/) at **Rice University** on SuperGen, an efficient ultra-high-resolution video generation system.
+
+My work has been accepted to the **NeurIPS 2025 Efficient Reasoning Workshop**, and I'll be presenting this December in San Diego. Hope to see you there!
 
 Get in Touch
 ======
