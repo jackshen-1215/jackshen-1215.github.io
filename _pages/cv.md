@@ -9,56 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)](/files/JuchengShen_CV.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.A. in Computer Science, Mathematics, and Economics, Rice University, 2027 (expected)
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2025 - Present: Research Intern
+  * The University of Texas at Austin
+  * Lead an independent project on test-time scaling for masked diffusion language models
+  * Design core algorithm that accelerates diffusion language model decoding by up to 50%
+  * Run end-to-end evaluations and draft full paper accepted to NeurIPS 2025 Efficient Reasoning Workshop
+  * Collaborate with 3 Intel researchers on conference paper: run large-scale experiments, refine algorithm, and draft paper
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 2025 - Present: Research Intern
+  * Rice University
+  * Contribute to training-free ultra-high-resolution (2-4K) video generation (SuperGen) with Prof. Yuke Wang's group
+  * Propose 2 core ideas integrated into the algorithm; assist with extensive experiments
+  * Realize up to 1.19x speedup at 2K and 1.36x at 4K via region-aware caching
+  * Achieve up to 1.97x speedup at 2K and 1.46x at 4K with caching using 4 GPUs
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Leadership
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* April 2025 - Present: Board Member (Tracks and Workshops)
+  * HackRice
+  * Host 2 technical workshops for 100+ attendees; run Q&A and live coding demos
+  * Co-design and ship official starter code used by 500+ hackers ([repo](https://github.com/jackshen-1215/hackrice15-starter-code/tree/main))
+  * Design competition tracks and judging criteria for HackRice 15
+
+* July 2022 - October 2024: Co-founder & CEO
+  * NudgeBridge Nonprofit
+  * Direct 25+ team members to provide educational support for 200+ children
+  * Raise $25,000+ through strategic partnerships
+  * Manage tutoring programs involving 40+ tutors for rural schools
+
+Honors & Awards
+======
+* Frank Liu Jr. Prize for Creative Innovations in Music, Fashion, & the Arts in Rice Launch Challenge
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Jucheng Shen**, Yeonju Ro. "Beyond Static Cutoffs: One-Shot Dynamic Thresholding for Diffusion Language Models." NeurIPS 2025 Efficient Reasoning Workshop. [Preprint](https://drive.google.com/file/d/1Xw7ImUHzs_gQDYcwk2B3uTjx4FsUzDzF/view?usp=sharing)
+
+* Fanjiang Ye, Zepeng Zhao, Yi Mu, **Jucheng Shen**, Renjie Li, Kaijian Wang, Desen Sun, Saurabh Agarwal, Myungjin Lee, Triston Cao, Aditya Akella, Arvind Krishnamurthy, T. S. Eugene Ng, Zhengzhong Tu, Yuke Wang. "SuperGen: An Efficient Ultra-high-resolution Video Generation System with Sketching and Tiling." arXiv preprint, August 2025. [arXiv:2508.17756](https://arxiv.org/abs/2508.17756v1)
