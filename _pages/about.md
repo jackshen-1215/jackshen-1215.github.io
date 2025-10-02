@@ -19,7 +19,38 @@ I'm fortunate to work with [Yeonju Ro](https://sites.google.com/view/hey-yeonju)
 
 I also collaborate with [Fanjiang Ye](https://home.fanjiang.net/) under the supervision of [Prof. Yuke Wang](https://www.wang-yuke.com/) at **Rice University** on SuperGen, an efficient ultra-high-resolution video generation system.
 
-My work has been accepted to the **NeurIPS 2025 Efficient Reasoning Workshop**, and I'll be presenting this December in San Diego. Hope to see you there!
+My work has been accepted to the **[NeurIPS 2025 Efficient Reasoning Workshop](https://efficient-reasoning.github.io/)**, and I'll be presenting this December in San Diego. Hope to see you there!
+
+<a name="publications"></a>
+
+Publications
+======
+
+<div style="display: flex; margin-bottom: 30px;">
+  <div style="flex: 0 0 200px; margin-right: 20px;">
+    <img src="/images/cover-supergen.png" alt="SuperGen" style="width: 100%; border: 1px solid #ddd;">
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">SUPERGEN: An Efficient Ultra-high-resolution Video Generation System with Sketching and Tiling</h3>
+    <p><strong><a href="https://home.fanjiang.net/">Fanjiang Ye</a></strong>, Zepeng Zhao, Yi Mu, <strong>Jucheng Shen</strong>, Renjie Li, Kaijian Wang, Desen Sun, Saurabh Agarwal, Myungjin Lee, Triston Cao, Aditya Akella, Arvind Krishnamurthy, T. S. Eugene Ng, Zhengzhong Tu, Yuke Wang</p>
+    <p><em>arXiv</em></p>
+    <p><a href="https://arxiv.org/abs/2508.17756v1">[Preprint]</a></p>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; margin-bottom: 30px;">
+  <div style="flex: 0 0 200px; margin-right: 20px;">
+    <img src="/images/cover-osdt.png" alt="OSDT" style="width: 100%; border: 1px solid #ddd;">
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">Beyond Static Cutoffs: One-Shot Dynamic Thresholding for Diffusion Language Models</h3>
+    <p><strong>Jucheng Shen</strong>, Yeonju Ro</p>
+    <p><em>NeurIPS 2025 Efficient Reasoning Workshop</em></p>
+    <p><a href="https://drive.google.com/file/d/1Xw7ImUHzs_gQDYcwk2B3uTjx4FsUzDzF/view?usp=sharing">[Preprint]</a></p>
+  </div>
+</div>
 
 Get in Touch
 ======
