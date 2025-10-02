@@ -31,10 +31,10 @@ Publications
     <img src="/images/cover-supergen.png" alt="SuperGen" style="width: 100%; border: 1px solid #ddd;">
   </div>
   <div style="flex: 1;">
-    <h3 style="margin-top: 0;">SUPERGEN: An Efficient Ultra-high-resolution Video Generation System with Sketching and Tiling</h3>
-    <p><strong><a href="https://home.fanjiang.net/">Fanjiang Ye</a></strong>, Zepeng Zhao, Yi Mu, <strong>Jucheng Shen</strong>, Renjie Li, Kaijian Wang, Desen Sun, Saurabh Agarwal, Myungjin Lee, Triston Cao, Aditya Akella, Arvind Krishnamurthy, T. S. Eugene Ng, Zhengzhong Tu, Yuke Wang</p>
-    <p><em>arXiv</em></p>
-    <p><a href="https://arxiv.org/abs/2508.17756v1">[Preprint]</a></p>
+    <h3 style="margin-top: 0; font-size: 1.1em; font-weight: normal;">SUPERGEN: An Efficient Ultra-high-resolution Video Generation System with Sketching and Tiling</h3>
+    <p style="font-size: 0.9em; margin: 5px 0;">Fanjiang Ye, Zepeng Zhao, Yi Mu, <strong>Jucheng Shen</strong>, Renjie Li, Kaijian Wang, Desen Sun, Saurabh Agarwal, Myungjin Lee, Triston Cao, Aditya Akella, Arvind Krishnamurthy, T. S. Eugene Ng, Zhengzhong Tu, Yuke Wang</p>
+    <p style="font-size: 0.9em; margin: 5px 0;"><em>arXiv</em></p>
+    <p style="font-size: 0.9em; margin: 5px 0;"><a href="https://arxiv.org/abs/2508.17756v1">[Preprint]</a></p>
   </div>
 </div>
 
@@ -45,10 +45,10 @@ Publications
     <img src="/images/cover-osdt.png" alt="OSDT" style="width: 100%; border: 1px solid #ddd;">
   </div>
   <div style="flex: 1;">
-    <h3 style="margin-top: 0;">Beyond Static Cutoffs: One-Shot Dynamic Thresholding for Diffusion Language Models</h3>
-    <p><strong>Jucheng Shen</strong>, Yeonju Ro</p>
-    <p><em>NeurIPS 2025 Efficient Reasoning Workshop</em></p>
-    <p><a href="https://drive.google.com/file/d/1Xw7ImUHzs_gQDYcwk2B3uTjx4FsUzDzF/view?usp=sharing">[Preprint]</a></p>
+    <h3 style="margin-top: 0; font-size: 1.1em; font-weight: normal;">Beyond Static Cutoffs: One-Shot Dynamic Thresholding for Diffusion Language Models</h3>
+    <p style="font-size: 0.9em; margin: 5px 0;"><strong>Jucheng Shen</strong>, Yeonju Ro</p>
+    <p style="font-size: 0.9em; margin: 5px 0;"><em>NeurIPS 2025 Efficient Reasoning Workshop</em></p>
+    <p style="font-size: 0.9em; margin: 5px 0;"><a href="https://drive.google.com/file/d/1Xw7ImUHzs_gQDYcwk2B3uTjx4FsUzDzF/view?usp=sharing">[Preprint]</a></p>
   </div>
 </div>
 
