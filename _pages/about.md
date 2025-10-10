@@ -15,7 +15,7 @@ I'm broadly interested in **efficient machine learning algorithms and systems**.
 
 Research
 ======
-I'm fortunate to work with [Yeonju Ro](https://sites.google.com/view/hey-yeonju) under the supervision of [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at **The University of Texas at Austin** on diffusion language models, where I've developed algorithms that achieve up to 50% speedup in decoding while maintaining accuracy comparable to state-of-the-art methods. Building on this work, I'm collaborating with three Intel researchers on training-free approaches to further accelerate inference for diffusion large language models.
+I'm fortunate to work with [Yeonju Ro](https://sites.google.com/view/hey-yeonju) under the supervision of [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at **The University of Texas at Austin** on diffusion language models, where I've developed algorithms that achieve up to 50% speedup in decoding while maintaining accuracy comparable to state-of-the-art methods. Building on this work, I'm recently collaborating with Intel Labs researchers on training-free approaches to further accelerate inference for diffusion large language models.
 
 I also collaborate with [Fanjiang Ye](https://home.fanjiang.net/) under the supervision of [Prof. Yuke Wang](https://www.wang-yuke.com/) at **Rice University** on SuperGen, an efficient ultra-high-resolution video generation system.
 
@@ -48,7 +48,7 @@ Publications
     <h3 style="margin-top: 0; font-size: 1.1em; font-weight: normal;">Beyond Static Cutoffs: One-Shot Dynamic Thresholding for Diffusion Language Models</h3>
     <p style="font-size: 0.9em; margin: 5px 0;"><strong>Jucheng Shen</strong>, Yeonju Ro</p>
     <p style="font-size: 0.9em; margin: 5px 0;"><em>NeurIPS 2025 Efficient Reasoning Workshop</em></p>
-    <p style="font-size: 0.9em; margin: 5px 0;"><a href="https://drive.google.com/file/d/1Xw7ImUHzs_gQDYcwk2B3uTjx4FsUzDzF/view?usp=sharing">[Preprint]</a></p>
+    <p style="font-size: 0.9em; margin: 5px 0;"><a href="https://drive.google.com/file/d/1sp3VbapzGc_8vp3bd67gRw46hZ3U20Ju/view?usp=sharing">[Preprint]</a></p>
   </div>
 </div>
 
