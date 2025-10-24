@@ -48,7 +48,7 @@ Publications
     <h3 style="margin-top: 0; font-size: 1.1em; font-weight: normal;">Beyond Static Cutoffs: One-Shot Dynamic Thresholding for Diffusion Language Models</h3>
     <p style="font-size: 0.9em; margin: 5px 0;"><strong>Jucheng Shen</strong>, Yeonju Ro</p>
     <p style="font-size: 0.9em; margin: 5px 0;"><em>NeurIPS 2025 Efficient Reasoning Workshop</em></p>
-    <p style="font-size: 0.9em; margin: 5px 0;"><a href="https://drive.google.com/file/d/1sp3VbapzGc_8vp3bd67gRw46hZ3U20Ju/view?usp=sharing">[Preprint]</a></p>
+    <p style="font-size: 0.9em; margin: 5px 0;"><a href="https://openreview.net/pdf?id=N5M6tMtthm">[Preprint]</a></p>
   </div>
 </div>
 
