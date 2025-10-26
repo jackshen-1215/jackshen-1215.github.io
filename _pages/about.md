@@ -52,6 +52,8 @@ Publications
   </div>
 </div>
 
+I'm also recently working on continual learning in LLMs under the supervision and guidance of [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/about/) at **Rice University**. If you're interested in this topic, please directly reach out to me for discussion and collaboration!
+
 Get in Touch
 ======
 Feel free to reach out at [jack.shen@rice.edu](mailto:jack.shen@rice.edu) if you'd like to discuss research, collaborations, or anything related to efficient ML!
