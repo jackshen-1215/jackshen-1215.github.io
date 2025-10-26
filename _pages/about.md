@@ -15,9 +15,11 @@ I'm broadly interested in **efficient machine learning algorithms and systems**.
 
 Research
 ======
-I'm fortunate to work with [Yeonju Ro](https://sites.google.com/view/hey-yeonju) under the supervision of [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) at **The University of Texas at Austin** on diffusion language models, where I've developed algorithms that achieve up to 50% speedup in decoding while maintaining accuracy comparable to state-of-the-art methods. Building on this work, I'm recently collaborating with Intel Labs researchers on training-free approaches to further accelerate inference for diffusion large language models.
+I'm fortunate to work with [Yeonju Ro](https://sites.google.com/view/hey-yeonju) under the supervision of [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) on diffusion language models, where I've developed algorithms that achieve up to 50% speedup in decoding while maintaining accuracy comparable to state-of-the-art methods. Building on this work, I worked with Intel Labs researchers on training-free approaches to further accelerate inference for diffusion large language models.
 
-I also collaborate with [Fanjiang Ye](https://home.fanjiang.net/) under the supervision of [Prof. Yuke Wang](https://www.wang-yuke.com/) at **Rice University** on SuperGen, an efficient ultra-high-resolution video generation system.
+I also collaborated with [Fanjiang Ye](https://home.fanjiang.net/) under the supervision of [Prof. Yuke Wang](https://www.wang-yuke.com/) on SuperGen, an efficient ultra-high-resolution video generation system.
+
+Most recently, I'm working on continual learning in LLMs under the supervision and guidance of [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/about/). Some papers of interest include [this](https://arxiv.org/pdf/2506.10943), [this](https://arxiv.org/pdf/2406.16218), [this](https://arxiv.org/pdf/2510.15103), and [this](https://arxiv.org/pdf/2505.22954). If you're interested in this topic, please directly reach out to me for discussion and collaboration!
 
 My work has been accepted to the **[NeurIPS 2025 Efficient Reasoning Workshop](https://efficient-reasoning.github.io/)**, and I'll be presenting this December in San Diego. Hope to see you there!
 
@@ -51,9 +53,3 @@ Publications
     <p style="font-size: 0.9em; margin: 5px 0;"><a href="https://drive.google.com/file/d/18iPul82Hm1kj21h5YNOhS0vp3r-NWPE7/view?usp=sharing">[Preprint]</a></p>
   </div>
 </div>
-
-I'm also recently working on continual learning in LLMs under the supervision and guidance of [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/about/) at **Rice University**. If you're interested in this topic, please directly reach out to me for discussion and collaboration!
-
-Get in Touch
-======
-Feel free to reach out at [jack.shen@rice.edu](mailto:jack.shen@rice.edu) if you'd like to discuss research, collaborations, or anything related to efficient ML!
