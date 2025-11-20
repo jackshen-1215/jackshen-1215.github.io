@@ -25,9 +25,11 @@ latest_posts:
   enabled: false
 ---
 
-Hi! I'm Jucheng (Jack) Shen, a junior at Rice University majoring in Computer Science, Mathematics, and Economics.
+Hi! I'm Jucheng (Jack) Shen, a junior at Rice University majoring in Computer Science, Mathematics, and Economics. 
 
-I'm broadly interested in **generative models**. Currently, I'm working under the supervision of [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/about/) on Recursive Reasoning LMs. I'm also working on pre-training large-scale text-to-image diffusion models with [Boya Zeng](https://boyazeng.github.io/) under the supervision of [Prof. Zhuang Liu](https://liuzhuang13.github.io/).
+I'm broadly interested in **generative models**. 
+
+Currently, I'm working under the supervision of [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/about/) on Recursive Reasoning LMs. I'm also working on pre-training large-scale text-to-image diffusion models with [Boya Zeng](https://boyazeng.github.io/) under the supervision of [Prof. Zhuang Liu](https://liuzhuang13.github.io/).
 
 Previously, I worked with [Yeonju Ro](https://sites.google.com/view/hey-yeonju) under the supervision of [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) on diffusion language models, where I've developed algorithms that achieve up to 50% speedup in decoding while maintaining accuracy comparable to state-of-the-art methods. Building on this work, I worked with Intel Labs researchers on training-free approaches to further accelerate inference for diffusion large language models.
 
