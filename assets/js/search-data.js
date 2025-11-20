@@ -369,14 +369,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-kicked-off-a-new-collaboration-with-prof-anastasios-kyrillidis-on-recursive-reasoning-lms-expect-plenty-of-experiments-on-multi-step-inference-this-summer",
-          title: 'Kicked off a new collaboration with Prof. Anastasios Kyrillidis on recursive reasoning LMs....',
-          description: "",
-          section: "News",},{id: "news-supergen-preprint-is-live",
-          title: 'SuperGen preprint is live',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
             },},{id: "news-i-ll-be-in-san-diego-this-december-to-present-our-one-shot-dynamic-thresholding-work-at-the-neurips-2025-efficient-reasoning-workshop-come-say-hi-if-you-re-around",
           title: 'I’ll be in San Diego this December to present our One-Shot Dynamic Thresholding...',
           description: "",
@@ -459,13 +451,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-x',
-        title: 'X',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://twitter.com/jackshen_1215", "_blank");
         },
       },{
       id: 'light-theme',
