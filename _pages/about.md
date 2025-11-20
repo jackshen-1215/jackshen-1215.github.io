@@ -36,7 +36,3 @@ Previously, I worked with [Yeonju Ro](https://sites.google.com/view/hey-yeonju) 
 I also collaborated with [Fanjiang Ye](https://home.fanjiang.net/) under the supervision of [Prof. Yuke Wang](https://www.wang-yuke.com/) on [SuperGen](https://arxiv.org/pdf/2508.17756), an efficient ultra-high-resolution video generation system.
 
 My work has been accepted to the **[NeurIPS 2025 Efficient Reasoning Workshop](https://efficient-reasoning.github.io/)**, and I'll be presenting this December in San Diego. Hope to see you there!
-
-### Publications
-
-Highlighted papers appear below, and the full list lives on the [publications page]({{ '/publications/' | relative_url }}).
