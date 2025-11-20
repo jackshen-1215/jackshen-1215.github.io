@@ -25,20 +25,15 @@ latest_posts:
   enabled: false
 ---
 
-Hi! I'm Jucheng (Jack) Shen, a junior at Rice University majoring in Computer Science, Mathematics, and Economics. I'm fascinated by **generative models** and build systems that make diffusion models and large language models faster and more reliable.
+Hi! I'm Jucheng (Jack) Shen, a junior at Rice University majoring in Computer Science, Mathematics, and Economics.
 
-I'm currently working with [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/about/) on recursive reasoning large language models. I also collaborate with [Boya Zeng](https://boyazeng.github.io/) and [Prof. Zhuang Liu](https://liuzhuang13.github.io/) on pre-training large-scale text-to-image diffusion models.
+I'm broadly interested in **generative models**. Currently, I'm working under the supervision of [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/about/) on Recursive Reasoning LMs. I'm also working on pre-training large-scale text-to-image diffusion models with [Boya Zeng](https://boyazeng.github.io/) under the supervision of [Prof. Zhuang Liu](https://liuzhuang13.github.io/).
 
-Previously, I worked with [Yeonju Ro](https://sites.google.com/view/hey-yeonju) and [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) on accelerating diffusion language models, including joint efforts with Intel Labs researchers on training-free inference speedups. I also collaborated with [Fanjiang Ye](https://home.fanjiang.net/) and [Prof. Yuke Wang](https://www.wang-yuke.com/) on [SuperGen](https://arxiv.org/pdf/2508.17756), an efficient ultra-high-resolution video generation system.
+Previously, I worked with [Yeonju Ro](https://sites.google.com/view/hey-yeonju) under the supervision of [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) on diffusion language models, where I've developed algorithms that achieve up to 50% speedup in decoding while maintaining accuracy comparable to state-of-the-art methods. Building on this work, I worked with Intel Labs researchers on training-free approaches to further accelerate inference for diffusion large language models.
 
-I'm excited to present at the **[NeurIPS 2025 Efficient Reasoning Workshop](https://efficient-reasoning.github.io/)** this December in San Diego—see you there! You can always grab the latest version of my CV [here]({{ '/assets/pdf/Jucheng_Shen_CV.pdf' | relative_url }}) or on the dedicated [CV page]({{ '/cv/' | relative_url }}).
+I also collaborated with [Fanjiang Ye](https://home.fanjiang.net/) under the supervision of [Prof. Yuke Wang](https://www.wang-yuke.com/) on [SuperGen](https://arxiv.org/pdf/2508.17756), an efficient ultra-high-resolution video generation system.
 
-### Research Highlights
-
-- **Recursive reasoning LMs:** Building multi-step inference pipelines with Prof. Kyrillidis to make language models more sample-efficient.
-- **Large-scale diffusion pre-training:** Exploring video and image generation models with Boya Zeng and Prof. Zhuang Liu.
-- **Fast diffusion decoding:** Designed one-shot dynamic thresholding with Yeonju Ro and Prof. Atlas Wang, and extended the work with Intel Labs collaborators.
-- **Ultra-high-resolution video generation:** Co-developed SuperGen with Fanjiang Ye and Prof. Yuke Wang, focusing on sketching and tiling strategies.
+My work has been accepted to the **[NeurIPS 2025 Efficient Reasoning Workshop](https://efficient-reasoning.github.io/)**, and I'll be presenting this December in San Diego. Hope to see you there!
 
 ### Publications
 
