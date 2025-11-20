@@ -25,9 +25,9 @@ latest_posts:
   enabled: false
 ---
 
-Hi! I'm Jucheng (Jack) Shen, a junior at Rice University majoring in Computer Science, Mathematics, and Economics. 
+Hi! I'm Jucheng (Jack) Shen, a junior at Rice University majoring in Computer Science, Mathematics, and Economics.
 
-I'm broadly interested in **generative models**. 
+I'm broadly interested in **generative models**.
 
 Currently, I'm working under the supervision of [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/about/) on Recursive Reasoning LMs. I'm also working on pre-training large-scale text-to-image diffusion models with [Boya Zeng](https://boyazeng.github.io/) under the supervision of [Prof. Zhuang Liu](https://liuzhuang13.github.io/).
 
