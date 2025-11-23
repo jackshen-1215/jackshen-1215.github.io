@@ -27,7 +27,7 @@ I'm broadly interested in **generative models**.
 
 Currently, I'm working under the supervision of [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/about/) on Recursive Reasoning LMs. I'm also working on pre-training large-scale text-to-image diffusion models with [Boya Zeng](https://boyazeng.github.io/) under the supervision of [Prof. Zhuang Liu](https://liuzhuang13.github.io/).
 
-Previously, I worked with [Yeonju Ro](https://sites.google.com/view/hey-yeonju) under the supervision of [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) on diffusion language models, where I've developed algorithms that achieve up to 50% speedup in decoding while maintaining accuracy comparable to state-of-the-art methods. Building on this work, I worked with Intel Labs researchers on training-free approaches to further accelerate inference for diffusion large language models.
+Previously, I worked with [Yeonju Ro](https://sites.google.com/view/hey-yeonju) under the supervision of [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang) on diffusion language models, where I've developed algorithms that achieve up to 50% speedup in decoding while maintaining accuracy comparable to state-of-the-art methods. Building on this work, I collaborated with Intel Labs on training-free techniques to further accelerate inference in diffusion LLMs, under the supervision of [Dr. Souvik Kundu](https://ksouvik52.github.io/).
 
 I also collaborated with [Fanjiang Ye](https://home.fanjiang.net/) under the supervision of [Prof. Yuke Wang](https://www.wang-yuke.com/) on [SuperGen](https://arxiv.org/pdf/2508.17756), an efficient ultra-high-resolution video generation system.
 
