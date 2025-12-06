@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Computer Science · Mathematics · Economics @ Rice University
+subtitle: Computer Science · Mathematics · Economics @ Rice University 🦉
 
 profile:
   align: right
